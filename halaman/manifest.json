@@ -1,0 +1,16 @@
+{
+  "background_color": "#267FE8",
+  "description": "PT. Gamal Hikmah Pusaka | Dexignzone",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/images/app-logo/pwa150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "name": "GMP - Job Search Mobile App Template",
+  "short_name": "GMP",
+  "start_url": "index.html"
+}
